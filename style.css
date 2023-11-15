@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    font-size: 20px;
+    border-left: 4px solid blue;
+    border-bottom: 4px solid red;
+}
+p{
+    color: red;
+    font-size: 25px;
+    font-family: Verdana;
+    line-height: 1.5;
+    text-align: right;
+    text-indent: 50px;
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+p:hover{
+    color: aqua;
+}
+p:active{
+    color: black;
+}
+.style1{
+    color: orange;
+}
+img{
+    border: 4px solid red;
+}
